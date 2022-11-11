@@ -1,0 +1,2 @@
+dc2022@ubuntu-srv:~/it2003/AnelAsketaeva$ mpicxx -O3 -o -file mpi.cpp
+dc2022@ubuntu-srv:~/it2003/AnelAsketaeva$ mpiexec -np 2 ./app   
