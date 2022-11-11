@@ -1,0 +1,1 @@
+dc2022@ubuntu-srv:~/it2003/AnelAsketaeva$ mpiexec -np 8 ./app   
